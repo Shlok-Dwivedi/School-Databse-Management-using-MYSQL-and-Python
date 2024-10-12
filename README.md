@@ -60,7 +60,7 @@ school-management-system/
 └── requirements.txt          # Dependencies (if any)
 ```
 ## 📸 Screenshots
-Add screenshots here if you have any!
+Will add with time
 
 ## 🤝 Contributing
 Contributions are welcome!
