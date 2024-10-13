@@ -16,7 +16,7 @@ Make sure you have the following installed on your system:
 - **MySQL**
 - **MySQL Connector**
 
-##🔧 Installation and Setup
+## 🔧 Installation and Setup
 ### 1. Clone the repository:
 
 ```bash
